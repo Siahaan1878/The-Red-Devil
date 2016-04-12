@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Selamat Datang di Websiteku</title>
+</head>
+<body>
+Ini adalah halaman HTML pertamaku.
+<p>Aku sedang membuat paragraf dan ini contohnya.</p>
+<p>Ini contoh paragraf yang lainnya.</p>
+<p>Ini juga paragraf mm...tapi de-<br>
+ngan baris baru.<br>
+Ini baris baru yang lain.</p>
+</body>
+</html>
